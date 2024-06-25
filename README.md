@@ -1,16 +1,33 @@
-### Hi there 👋
+Future<void> updateObjects<T>({required Type type}) async {
+    final Map<Type, Map> typeToMap = {
+      Annotation: annotations,
+      Location: locations,
+      Driver: drivers,
+      QuestionCategory: categories,
+      Question: questions,
+      TestDrive: testDrives,
+      Project: projects,
+      LightSystem: lightsystems,
+    };
 
-<!--
-**jerankda/jerankda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    if (!typeToMap.containsKey(type)) {
+      log.severe('Error while updating Objects of Type $type: Type not found');
+      throw Exception('Type not found');
+    } else {
+      log.info('Updating Objects of Type $type');
+      try {
+        List objectList =
+            await _database.httpResolver.getAllObjectsOfType(objectType: type);
+        for (var object in objectList) {
+          if (type == Project) {
+            typeToMap[type]![object?.name] = object;
+          } else {
+            typeToMap[type]![object?.id] = object;
+          }
+        }
+      } catch (e) {
+        log.severe('Error while updating Objects of Type $type: $e');
+        rethrow;
+      }
+    }
+  }
