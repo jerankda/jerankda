@@ -1,11 +1,11 @@
 # Hi there, I'm Daniel 👋
 
-💻 **Software Engineering Student** | 🚀 Passionate about building innovative software solutions  
-📍 Based in Stuttgart | 🎂 20 years old  
+**Software Engineering Student** |  Passionate about building innovative software solutions  
+Based in Stuttgart | 20 years old  
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🔹 Expertise in **Python** (web frameworks, data analysis, automation, tooling)  
 - 🔹 Proficient in **JavaScript & TypeScript** (React, Canvas API, modern frontend)  
 - 🔹 Strong background in **Version Control & DevOps** (Git, GitHub Actions, CI/CD)  
@@ -15,7 +15,7 @@ I love turning ideas into clean, efficient, and impactful software.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -33,7 +33,7 @@ I love turning ideas into clean, efficient, and impactful software.
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 🔹 [Zenith](https://github.com/jerankda/zenith)
 A clean, customizable homepage to replace your browser’s new tab page.  
@@ -49,5 +49,5 @@ A fast and simple Python linter to catch issues and enforce coding standards.
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - 📧 Email: **jerankda@pm.me**  
