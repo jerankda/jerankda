@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel 👋
 
 **Software Engineering Student** |  Passionate about building innovative software solutions  
-Based in Stuttgart | 20 years old  
+Based in Stuttgart | 21 years old  
 
 ---
 
