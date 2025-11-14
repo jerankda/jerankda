@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel 👋
 
-**Software Engineering Student** |  Passionate about building innovative software solutions  
-Based in Stuttgart | 21 years old  
+Passionate about building innovative software solutions  
+Based in Wolfsburg | 21 years old  
 
 ---
 
@@ -42,10 +42,6 @@ A clean, customizable homepage to replace your browser’s new tab page.
 ### 🔹 [GlacierCSS](https://github.com/jerankda/glaciercss)
 A high-performance, minimal CSS framework with excellent mobile support.  
 *SCSS • Lightweight • Fast*
-
-### 🔹 [Splint](https://github.com/jerankda/splint)
-A fast and simple Python linter to catch issues and enforce coding standards.  
-*Python • Code Quality • Linting*
 
 ---
 
