@@ -1,4 +1,3 @@
-# Hi there, I'm Daniel 
 
 21 years old.
 Building things nobody asked for. Working on apps, tools and SaaS.
