@@ -1,9 +1,11 @@
-# Hi there, I'm Daniel 👋
+# Hi there, I'm Daniel 
 
-Passionate about building innovative software solutions  
-Based in Wolfsburg | 21 years old  
+21 years old
+Building things nobody asked for. Working on apps, tools and SaaS.
+Mostly learning, sometimes shipping. Open to work
+
 
 ---
 
-## Let’s Connect
-- 📧 Email: **jerankda@pm.me**  
+# Let’s Connect
+- mail: **jerankda@pm.me**  
