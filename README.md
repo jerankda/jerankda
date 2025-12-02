@@ -1,6 +1,6 @@
 # Daniel Jeranko
 
-21 • Building things nobody asked for  
+21 • Student • Building things nobody asked for  
 Apps, tools & SaaS • Mostly learning, sometimes shipping  
 Open to work
 
