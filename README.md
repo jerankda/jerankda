@@ -1,7 +1,7 @@
 # Daniel Jeranko
 
 21 • Student • Building things nobody asked for  
-Apps, tools & SaaS • Mostly learning, sometimes shipping  
+Apps, tools & random stuff • Mostly learning, rarely shipping  
 Open to work
 
 
